@@ -16,9 +16,11 @@ private struct Color {
 
 class ViewController: UIViewController {
   
-    @IBOutlet var changeNameTextColor: UILabel!
-    @IBOutlet var changeMajorTextColor: UILabel!
-    @IBOutlet var changeSchoolTextColor: UILabel!
+    @IBOutlet var changeNameTextColor: UILabel!;
+    @IBOutlet var changeMajorTextColor: UILabel!;
+    @IBOutlet var changeSchoolTextColor: UILabel!;
+    
+    private let colorBrightness: CGFloat = 1;
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -29,9 +31,9 @@ class ViewController: UIViewController {
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
         let color: Color = getColor();
         let reverseUIColor = UIColor(
-            red: 1 + color.red,
-            green: 1 + color.green,
-            blue: 1 + color.blue,
+            red: colorBrightness + color.red,
+            green: colorBrightness + color.green,
+            blue: colorBrightness + color.blue,
             alpha: color.alpha
         );
         let currentUIColor = UIColor(

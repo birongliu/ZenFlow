@@ -14,8 +14,12 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-<div style="position: relative; padding-bottom: 216.86746987951807%; height: 0;">
-<iframe src="https://www.loom.com/embed/eb5bc9825e53440bb62ba84d33c7601e?sid=0d21f3db-f62c-480c-87a0-2c015e657b0b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/eb5bc9825e53440bb62ba84d33c7601e" />
+    <a href="https://www.loom.com/share/eb5bc9825e53440bb62ba84d33c7601e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/eb5bc9825e53440bb62ba84d33c7601e-with-play.gif">
+    </a>
+  </div>
 
 
 ## App Brainstorming (Step 4)

@@ -20,6 +20,17 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+- Amazon
+    - Search bar for products
+    - Shopping carts
+    - product selection
+- Messager 
+    - Chat room
+    - Call/video functions
+- Uber
+    - From and to search bar
+    - Rider and driver functions
+All into one app. 
 
 ## Notes
 
